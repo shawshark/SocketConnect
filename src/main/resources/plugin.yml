@@ -1,0 +1,3 @@
+name: SocketConnect
+main: net.shawshark.socketconnect.bukkit.SocketConnectPlugin
+version: 1.0
